@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/hirumitha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://itz-Hiru.github.io/portfolio/" target="_blank">
+  <a href="https://personal-portfolio-three-olive.vercel.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-007FFF?style=for-the-badge&logo=netlify&logoColor=white" /> 
   </a>
   <a href="https://wa.me/+94725508919/" target="_blank">
