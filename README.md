@@ -1,12 +1,44 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=007FFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hirumitha+Kuladewa!;Full+Stack+Developer;Mobile+Developer;Tech+Enthusiast" />
-</h1>
-
+<!-- Header gradient -->
 <p align="center">
-  <strong>A versatile developer passionate about crafting digital experiences across platforms 🚀</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header">
 </p>
 
----
+<!-- Header gif -->
+<p align="center" >
+  <img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px>
+</p>
+
+<!-- Hello name -->
+<h1 align="center">
+  Hi 
+  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" />
+  , I'm Hirumitha Kuladewa
+  <img src="https://media.tenor.com/uUNcnHwYJQEAAAAj/running-pikachu-transparent-snivee.gif" height="7%" width="7%"/>
+</h1>
+
+<!-- Hello description -->
+<p align="center">
+  <a href="https://github.com/oraclebrain/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20;Full Stack%20Developer;Mobile%20Application%20Developer;Tech%20Enthusiast&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+<!-- Spotify Song -->
+<p align="center">
+  <a href="https://open.spotify.com/embed/track/5X3HN2ZNAcnwriB48pW5mw?utm_source=generator" target="_blank">
+    <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
+  </a>
+</p>
+
+<!-- Github profile details -->
+<p align="center">
+  <img src="https://img.shields.io/github/created-at/itz-Hiru/itz-Hiru"/>
+  <img src="https://img.shields.io/github/commit-activity/m/itz-Hiru/itz-Hiru"/>
+  <img src="https://img.shields.io/github/forks/itz-Hiru/itz-Hiru"/>
+  <img src="https://img.shields.io/github/stars/itz-Hiru/itz-Hiru"/>
+  <img src="https://img.shields.io/github/watchers/itz-Hiru/itz-Hiru"/>
+  <img src="https://img.shields.io/github/followers/itz-Hiru"/>
+</p>
 
 ### 🌟 About Me
 
