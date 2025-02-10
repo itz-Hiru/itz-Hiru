@@ -45,7 +45,11 @@
   <img src="https://komarev.com/ghpvc/?username=itz-Hiru&label=Profile%20views&color=0e75b6&style=flat" alt="Hirumitha" /> 
 </p>
 
-### 🌟 About Me
+<!-- Breakline -->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
+<!-- About my self -->
+<h3 align="center">🤗 About me: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 
 <table align="center">
   <tr border="none">
@@ -62,152 +66,123 @@
   </td>
   <td width="50%" align="center">
     
-  <!--sun rise loop gif-->
-  <img align="center" alt="Coding" width="420px" height="270px" src="https://github.com/RavinduRB/RavinduRB/assets/167113225/6539482c-d48c-45d7-b744-5117a084fda4">
+  <!-- Sun rise loop gif -->
+  <img align="center" alt="Coding" width="420px" height="270px" src="https://th.bing.com/th/id/R.27c1fccb4751fe42ac98d6e7cfdd711a?rik=pWBtQt9cTGRAuA&riu=http%3a%2f%2fimg0.joyreactor.com%2fpics%2fpost%2fwater-wave-sun-gif-811130.gif&ehk=6yjmL4TCH4NA3nTZ6fO9BU7i1YqTQLk7kWWcg8LyI%2bI%3d&risl=&pid=ImgRaw&r=0">
 
   </td>
   </tr>
 </table>
 
----
+<!-- Breakline -->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
-### 📫 Connect with Me
+<!-- Github stats -->
+<h3 align="center">📊 GitHub Stats: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<p align="center">
+<table align="center">
+  <tr border="none">
+  <td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=itz-Hiru&show_icons=true&theme=tokyonight" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-Hiru&theme=algolia" alt="Hirumitha" /> 
+  </td>
+  <td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-Hiru&layout=donut&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+  </tr>
+</table>
 
-<p>
-  <a href="mailto:hirumithakuladewanew@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-007FFF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hirumitha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://hirumitha-personal-portfolio.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-007FFF?style=for-the-badge&logo=netlify&logoColor=white" /> 
-  </a>
-  <a href="https://wa.me/+94725508919/" target="_blank">
-     <img src="https://img.shields.io/badge/WhatsApp-007FFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/x_hiru23/" target="_blank">
-     <img src="https://img.shields.io/badge/Instagram-007FFF?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/pmf76hxtcvadppLB/" target="_blank">
-     <img src="https://img.shields.io/badge/Facebook-007FFF?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+<!-- Breakline -->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
----
-
-### 🛠️ Technology Stack
-
-<table>
+<!-- Repository stats -->
+<h3 align="center">🚀 Repository Stats: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<table align="center">
   <tr>
-    <td><strong>👨‍💻 Programming Languages</strong></td>
     <td>
-      <a href="https://www.oracle.com/java/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=light" /></a>
-      <a href="https://www.python.org/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=light" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript&theme=light" /></a>
-      <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=typescript&theme=light" /></a>
-      <a href="https://kotlinlang.org/docs/home.html" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin&theme=light" /></a>
-      <a href="https://dart.dev/guides" target="_blank"><img src="https://skillicons.dev/icons?i=dart&theme=light" /></a>
+      <img src="https://streak-stats.demolab.com?user=itz-Hiru&theme=github-dark-blue&hide_border=true&border_radius=0&date_format=%5BY.%5Dn.j&card_width=409&hide_current_streak=true&hide_longest_streak=true" align="center" />
     </td>
-  </tr>
-  <tr>
-    <td><strong>🎨 Frontend Development</strong></td>
     <td>
-      <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=light" /></a>
-      <a href="https://angular.io/docs" target="_blank"><img src="https://skillicons.dev/icons?i=angular&theme=light" /></a>
-      <a href="https://getbootstrap.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap&theme=light" /></a>
-      <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=light" /></a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=light" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>📱 Mobile Development</strong></td>
-    <td>
-      <a href="https://developer.android.com/docs" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" /></a>
-      <a href="https://flutter.dev/docs" target="_blank"><img src="https://skillicons.dev/icons?i=flutter&theme=light" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🤖 Artificial Intelligence</strong></td>
-     <td>
-      <a href="https://www.tensorflow.org/learn" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=light" /></a>
-      <a href="https://pandas.pydata.org/pandas-docs/stable/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-      <a href="https://numpy.org/doc/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>💾 Databases</strong></td>
-    <td>
-      <a href="https://www.mongodb.com/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=light" /></a>
-      <a href="https://dev.mysql.com/doc/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=light" /></a>
-      <a href="https://www.sqlite.org/docs.html" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=light" /></a>
-      <a href="https://docs.microsoft.com/en-us/sql/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>☁️ DevOps & Cloud</strong></td>
-    <td>
-      <a href="https://www.docker.com/get-started" target="_blank"><img src="https://skillicons.dev/icons?i=docker&theme=light" /></a>
-      <a href="https://kubernetes.io/docs/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes&theme=light" /></a>
-      <a href="https://aws.amazon.com/documentation/" target="_blank"><img src="https://skillicons.dev/icons?i=aws&theme=light" /></a>
-      <a href="https://firebase.google.com/docs" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=light" /></a>
-      <a href="https://devcenter.heroku.com/categories/reference" target="_blank"><img src="https://skillicons.dev/icons?i=heroku&theme=light" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🎯 Testing</strong></td>
-    <td>
-      <a href="https://www.selenium.dev/documentation/" target="_blank"><img src="https://skillicons.dev/icons?i=selenium&theme=light" /></a>
-      <a href="https://developer.android.com/training/testing" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/></a>
-      <a href="https://junit.org/junit5/docs/current/user-guide/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-plain.svg" width="40" height="40"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🎨 Design Tools</strong></td>
-    <td>
-      <a href="https://www.figma.com/downloads/" target="_blank"><img src="https://skillicons.dev/icons?i=figma&theme=light" /></a>
-      <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://skillicons.dev/icons?i=ps&theme=light" /></a>
-      <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://skillicons.dev/icons?i=ai&theme=light" /></a>
+      <img src="https://streak-stats.demolab.com?user=itz-Hiru&theme=github-dark-blue&hide_border=true&border_radius=0&locale=en&date_format=%5BY.%5Dn.j&card_width=338&hide_total_contributions=true&hide_current_streak=true" align="center" />
     </td>
   </tr>
 </table>
 
----
+<!-- Breakline -->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
-### 🐍 Contributions Activity
+<!-- Top Contribution -->
+<h3 align="center">🌀 Top Contributed Repository: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-Hiru&theme=react&area=true&order=5&bg_color=black" height="350" alt="activity-graph graph"  />
+</div>
 
+<!-- Breakline -->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
+<!-- Trophies -->
+<h3 align="center">🏆 Trophies: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<img src="https://github-profile-trophy.vercel.app?username=itz-Hiru&theme=discord&margin-w=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<!-- Breakline -->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
+<!-- Random quote -->
+<h3 align="center">✍️ Random Dev Quote: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?font=Redressed?quoteCategory=success&theme=algolia&animation=grow_out_in">
+</div>
+
+<!-- Breakline -->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
+
+<!-- Contact details -->
+<h3 align="center">🌐 Connect with me: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <a href="https://www.linkedin.com/in/hirumitha/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70">
+  </a>
+  <a href="https://www.facebook.com/share/pmf76hxtcvadppLB/?mibextid=qi2Omg" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70">
+  </a>
+  <a href="https://www.instagram.com/x_hiru23/?igsh=cWNrdTJicHhyMjNv" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70">
+  </a>
 </p>
 
----
+<!-- Breakline -->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
-### ⚡ GitHub Stats
+<!-- Currently uses -->
+<h3 align="center">🍃 Currently in use: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
+<div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=itz-Hiru&count_private=true&theme=blue-green&border_radius=10" alt="streak stats"/>
-    </td>
-    <td>
-      <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=itz-Hiru&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&border_radius=10" alt="readme stats" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width=450 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=itz-Hiru&hide=HTML&langs_count=8&layout=compact&theme=blue-green&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    </td>
-  </tr>
-</table>
+| Title                          | Icon                                                                                                             |
+|--------------------------------|------------------------------------------------------------------------------------------------------------------|
+| IDE's                          | <img src="https://skillicons.dev/icons?i=idea,pycharm,androidstudio,vscode,visualstudio" />                      |
+| App Development                | <img src="https://skillicons.dev/icons?i=java,kotlin" />                                                         |
+| Front End                      | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,js,react,next" />                                    |
+| Back End                       | <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,mongodb,firebase,python" />                           |
+| Programming Languages          | <img src="https://skillicons.dev/icons?i=java,python,kotlin"/>                                                   |
+| Scripting Languages            | <img src="https://skillicons.dev/icons?i=html,css"/>                                                             |
+| Tools                          | <img src="https://skillicons.dev/icons?i=figma,vscode,visualstudio"/>                                            |
+| Databases                      | <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>                                                        |
+| Version Control                | <img src="https://skillicons.dev/icons?i=github,githubactions"/>                                                 |
+| favourite                      | <img src="https://skillicons.dev/icons?i=java,js,react,androidstudio" />                                         |
 
----
+<!-- Breakline -->
+<img src="https://github.com/Kavithma-Thushal/Kavithma-Thushal/blob/main/Github/break_line.gif" alt="break line">
 
-### 👨‍💻 Projects & Contributions
-
-Explore my repositories to see projects in mobile development, AI/ML, full-stack applications, and more! 
-
+<!-- Support -->
+<h3 align="center">🤝 Support: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007FFF&height=100&section=footer"/>
+  <a href="https://www.buymeacoffee.com/hirumitha"> 
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hirumitha" />
+  </a>
 </p>
+<br><br>
 
+<!-- Footer -->
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
