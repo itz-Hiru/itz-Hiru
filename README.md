@@ -40,20 +40,32 @@
   <img src="https://img.shields.io/github/followers/itz-Hiru"/>
 </p>
 
+<!-- Profile Views -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=itz-Hiru&label=Profile%20views&color=0e75b6&style=flat" alt="Hirumitha" /> 
+</p>
+
 ### 🌟 About Me
 
-<table>
-  <tr>
-    <td><strong>🌱 Exploring</strong></td>
-    <td>Android & iOS Development</td>
-  </tr>
-  <tr>
-    <td><strong>💬 Ask Me About</strong></td>
-    <td>Full Stack Development, Mobile Apps, Design</td>
-  </tr>
-  <tr>
-    <td><strong>⚡ Fun Fact</strong></td>
-    <td>Call me the Joker</td>
+<table align="center">
+  <tr border="none">
+  <td width="50%" align="left">
+
+- 🌱 I’m currently learning **NextJS, NodeJS, Flutter and React**
+
+- 🧑‍🎓 I'm currently pursing a diploma in Software Engineering at **National Apprentice and Industrial Training Aurthority**
+
+- 💬 Ask me about **JAVA, JavaScript, Kotlin**
+
+- ⚡ Call me as **Hirumitha**
+
+  </td>
+  <td width="50%" align="center">
+    
+  <!--sun rise loop gif-->
+  <img align="center" alt="Coding" width="420px" height="270px" src="https://github.com/RavinduRB/RavinduRB/assets/167113225/6539482c-d48c-45d7-b744-5117a084fda4">
+
+  </td>
   </tr>
 </table>
 
