@@ -188,13 +188,6 @@
   />
 </picture>
 
-<!-- Support -->
-<h3 align="center">🤝 Support: <img src="https://media.giphy.com/media/Ky5F5Rhn1WRVZmvE5W/giphy.gif" width="60"/></h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/hirumitha"> 
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Hirumitha" />
-  </a>
-</p>
 <br><br>
 
 <!-- Footer -->
