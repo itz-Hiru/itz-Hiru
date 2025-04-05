@@ -43,7 +43,7 @@
 <!-- Profile Views -->
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=itz-Hiru&label=Profile%20views&color=0e75b6&style=flat" alt="Hirumitha" /> 
-  <a href="https://hirumitha-personal-portfolio.vercel.app/">
+  <a href="https://hirumitha-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue"/>
   </a>
 </p>
