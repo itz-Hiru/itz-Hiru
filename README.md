@@ -18,9 +18,9 @@
 
 <!-- Hello description -->
 <p align="center">
-  <a href="https://github.com/oraclebrain/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software%20Engineer%20;Full Stack%20Developer;Mobile%20Application%20Developer;Tech%20Enthusiast&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
-  </a>
+  <a href="https://github.com/oraclebrain/readme-typing-svg" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;Mobile+Application+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</a>
 </p>
 
 <!-- Spotify Song -->
